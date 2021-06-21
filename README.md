@@ -1,4 +1,4 @@
-# Python-Software-Installed
+# PythonScript-PC-Scanner
 Python script wich detect all your installed software on your machine and generate a PDF file with a list of them.
 
 It will also scan your hardware, and will append it in the PDF file.
